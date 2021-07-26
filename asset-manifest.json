@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sakshamkeep/static/css/main.aeb8b949.chunk.css",
+    "main.js": "/sakshamkeep/static/js/main.f15c6190.chunk.js",
+    "main.js.map": "/sakshamkeep/static/js/main.f15c6190.chunk.js.map",
+    "runtime-main.js": "/sakshamkeep/static/js/runtime-main.ebfeed10.js",
+    "runtime-main.js.map": "/sakshamkeep/static/js/runtime-main.ebfeed10.js.map",
+    "static/js/2.d9fd6988.chunk.js": "/sakshamkeep/static/js/2.d9fd6988.chunk.js",
+    "static/js/2.d9fd6988.chunk.js.map": "/sakshamkeep/static/js/2.d9fd6988.chunk.js.map",
+    "index.html": "/sakshamkeep/index.html",
+    "static/css/main.aeb8b949.chunk.css.map": "/sakshamkeep/static/css/main.aeb8b949.chunk.css.map",
+    "static/js/2.d9fd6988.chunk.js.LICENSE.txt": "/sakshamkeep/static/js/2.d9fd6988.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebfeed10.js",
+    "static/js/2.d9fd6988.chunk.js",
+    "static/css/main.aeb8b949.chunk.css",
+    "static/js/main.f15c6190.chunk.js"
+  ]
+}
